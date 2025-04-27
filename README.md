@@ -55,11 +55,11 @@ streamlit run Página_Inicial.py
 ```
 
 
-storytelling-streamlit/
-├── Pages
-├──├── 1_Explore_os_Dados.py   # 2º Página - Explore os Dados
-├── Página_Inicial.py          # Página principal - História do Titanic
-├── Explore.py                 # Página de exploração interativa
-├── README.md                  # Arquivo de documentação
-├── pyproject.toml             # Configurações do Poetry
+storytelling-streamlit/<br>
+├── Pages<br>
+├──├── 1_Explore_os_Dados.py   # 2º Página - Explore os Dados<br>
+├── Página_Inicial.py          # Página principal - História do Titanic<br>
+├── Explore.py                 # Página de exploração interativa<br>
+├── README.md                  # Arquivo de documentação<br>
+├── pyproject.toml             # Configurações do Poetry<br>
 └── ...
